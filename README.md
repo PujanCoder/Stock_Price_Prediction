@@ -88,6 +88,9 @@ git clone <your-repo-link>
 cd stock-price-prediction
 
 
+
+
+
 Run the Jupyter Notebook or Python script to train and test models.
 
 Visualize predicted vs actual prices using matplotlib.
